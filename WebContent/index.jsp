@@ -10,6 +10,8 @@
 
 <h1>HireEngage</h1>
 
+<p>Welcome to all of your HR needs</p>
+
 
 </body>
 </html>
